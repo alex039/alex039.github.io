@@ -1,9 +1,9 @@
 # Site settings
-title: Liang Ke Jin
-description: Liang Ke Jin
+title: Tang Hua
+description: Tang Hua
 favicon: /assets/img/avatar.JPG
 baseurl:
-url: https://liungkejin.github.io
+url: https://alex039.github.io
 rss_url:
 
 # Build settings
@@ -14,7 +14,7 @@ highlight: true
 timezone: Asia/Shanghai
 
 markdown: kramdown
-theme:minima
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
