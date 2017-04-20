@@ -6,13 +6,7 @@ location: 北京
 pulished: true
 excerpt_separator: "```"
 ---
-# Java的并发
-
-标签（空格分隔）： Java 线程 并发 Thread Runnable
-
----
-
-## Thread还是Runnable
+> Thread还是Runnable
 java中实现线程的方式有两种：
 
 #### 1.Thread
