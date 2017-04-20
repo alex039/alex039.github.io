@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post_layout
-title: 第一篇文章
-time: 2017年04月20日 星期四
+title: Java并发
+time: 2012年03月05日 星期五
 location: 北京
 pulished: true
 excerpt_separator: "```"
