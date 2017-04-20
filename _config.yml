@@ -9,6 +9,7 @@ rss_url:
 # Build settings
 
 highlight: true
+excerpt_separator: "<!---more--->"
 #highlighter: rouge
 
 timezone: Asia/Shanghai
