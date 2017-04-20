@@ -4,13 +4,11 @@ title: Java并发
 time: 2012年03月05日 星期五
 location: 北京
 pulished: true
-excerpt_separator: "<!---more--->"
 ---
 java实现并发通过多线程或者多进程来实现，首先我们来看怎么在java中实现多线程
 java中实现线程的方式有两种方式，Thread或者Runnable。
 
 ### Thread还是Runnable？
-<!---more--->
 
 #### 1.Thread
 
@@ -22,6 +20,7 @@ public class MyThread extends Thread{
 	}
 }
 ```
+<!---more--->
 启动线程时使用myThread.start(); 
 > * 注意不要使用myThread.run(). 
 > * run和start的区别在于，start会启动子线程，而run只是在父线程中执行
