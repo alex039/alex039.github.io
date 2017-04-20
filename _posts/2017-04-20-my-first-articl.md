@@ -18,7 +18,7 @@ java中实现线程的方式有两种方式，Thread或者Runnable。
 ``` java
 public class MyThread extends Thread{
 	public void run(){
-		System.out.println("This is my thread!")``;
+		System.out.println("This is my thread!");
 	}
 }
 ```
